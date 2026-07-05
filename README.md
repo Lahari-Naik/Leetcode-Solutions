@@ -32,6 +32,7 @@ Thanks for visiting!
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
 |  |
@@ -45,6 +46,7 @@ Thanks for visiting!
 | [0053-maximum-subarray](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -83,6 +85,7 @@ Thanks for visiting!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Sorting
 |  |
