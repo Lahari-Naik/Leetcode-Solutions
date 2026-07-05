@@ -42,6 +42,7 @@ Thanks for visiting!
 | ------- |
 | [0001-two-sum](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -52,6 +53,7 @@ Thanks for visiting!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 ## Math
@@ -74,4 +76,8 @@ Thanks for visiting!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
