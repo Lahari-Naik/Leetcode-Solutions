@@ -43,6 +43,7 @@ Thanks for visiting!
 | ------- |
 | [0001-two-sum](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0075-sort-colors) |
@@ -67,6 +68,7 @@ Thanks for visiting!
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
@@ -81,6 +83,7 @@ Thanks for visiting!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [1301-number-of-paths-with-max-score](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 ## Hash Table
