@@ -45,6 +45,7 @@ Thanks for visiting!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -84,6 +85,7 @@ Thanks for visiting!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [1301-number-of-paths-with-max-score](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 ## Hash Table
@@ -110,5 +112,6 @@ Thanks for visiting!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
