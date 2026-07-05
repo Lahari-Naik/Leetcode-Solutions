@@ -40,6 +40,7 @@ Thanks for visiting!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -69,4 +70,8 @@ Thanks for visiting!
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
