@@ -61,6 +61,7 @@ Thanks for visiting!
 | [0229-majority-element-ii](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1288-remove-covered-intervals](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -125,6 +126,7 @@ Thanks for visiting!
 | ------- |
 | [0053-maximum-subarray](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -139,4 +141,24 @@ Thanks for visiting!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
