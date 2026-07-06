@@ -21,23 +21,6 @@ Thanks for visiting!
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-## Depth-First Search
-|  |
-| ------- |
-| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
-## Breadth-First Search
-|  |
-| ------- |
-| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
-## Union-Find
-|  |
-| ------- |
-| [0128-longest-consecutive-sequence](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
-| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
-## Graph Theory
-|  |
-| ------- |
-| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Array
 |  |
 | ------- |
@@ -88,14 +71,6 @@ Thanks for visiting!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0136-single-number) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
-| [0118-pascals-triangle](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [0152-maximum-product-subarray](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
-| [1301-number-of-paths-with-max-score](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 ## Matrix
 |  |
 | ------- |
@@ -158,9 +133,35 @@ Thanks for visiting!
 ## Merge Sort
 |  |
 | ------- |
+## Depth-First Search
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Graph Theory
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+
 | [0493-reverse-pairs](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [1301-number-of-paths-with-max-score](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
