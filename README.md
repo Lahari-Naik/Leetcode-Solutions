@@ -51,6 +51,7 @@ Thanks for visiting!
 | [0056-merge-intervals](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -72,6 +73,7 @@ Thanks for visiting!
 | [0018-4sum](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -114,6 +116,7 @@ Thanks for visiting!
 | [0018-4sum](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [1288-remove-covered-intervals](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
