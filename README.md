@@ -54,6 +54,7 @@ Thanks for visiting!
 | [0136-single-number](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -99,12 +100,14 @@ Thanks for visiting!
 | [0073-set-matrix-zeroes](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [1288-remove-covered-intervals](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 ## Divide and Conquer
 |  |
@@ -115,6 +118,7 @@ Thanks for visiting!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
