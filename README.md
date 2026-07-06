@@ -56,6 +56,7 @@ Thanks for visiting!
 | [0283-move-zeroes](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1288-remove-covered-intervals](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -102,6 +103,7 @@ Thanks for visiting!
 | ------- |
 | [0075-sort-colors](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [1288-remove-covered-intervals](https://github.com/Lahari-Naik/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
