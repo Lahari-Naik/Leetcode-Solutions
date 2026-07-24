@@ -9,9 +9,9 @@ public:
             }
         }
         unordered_set<int> ans;
-        for (int xy : p) {
+        for (int k : p) {
             for (int z : v) {
-                ans.insert(xy ^ z);
+                ans.insert(k ^ z);
             }
         }
         return ans.size();
