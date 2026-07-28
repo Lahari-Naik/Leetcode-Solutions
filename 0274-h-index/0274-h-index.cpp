@@ -14,6 +14,6 @@ public:
             mini = min(i+1,c[i]);
             ans = max(ans,mini);
         }
-        return ans == 0 ? n : ans;
+        return ans;
     }
 };
