@@ -14,8 +14,7 @@ public:
         for(int i=0;i<26;i++)
         {
             if(freq[i]==0) break;
-            int x = i/8+1;
-            sum += freq[i]*x;
+            sum += freq[i]*(i/8+1);
         }
         return sum;
     }
