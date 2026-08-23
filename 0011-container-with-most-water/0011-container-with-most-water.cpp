@@ -9,14 +9,8 @@ public:
         {
             int k = min(h[l],h[r])*(r-l);
             ans = max(ans,k);
-            if(h[l]>h[r])
-            {
-                r--;
-            }
-            else
-            {
-                l++;
-            }
+            if(h[l]>h[r]) r--;
+            else l++;
         } 
         return ans;
     }
