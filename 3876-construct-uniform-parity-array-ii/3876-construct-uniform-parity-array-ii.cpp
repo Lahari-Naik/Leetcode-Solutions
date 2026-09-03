@@ -2,7 +2,7 @@ class Solution {
 public:
     bool uniformArray(vector<int>& nums1) {
         int n = nums1.size();
-        make_heap(nums1.begin(),nums1.end(), greater<int>());
+        int x = *min_element(nums1.begin(),nums1.end());
         int even = 0;
         for(int i=0;i<n;i++)
         {
@@ -11,7 +11,7 @@ public:
                 even++;
             }
         }
-        if(nums1[0]%2==0 && even!=n) return false;
+        if(x%2==0 && even!=n) return false;
         return true;
     }
 };
