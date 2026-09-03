@@ -1,18 +1,17 @@
 class Solution {
 public:
     bool uniformArray(vector<int>& nums1) {
-        vector<int> arr = nums1;
-        int n = arr.size();
-        sort(arr.begin(),arr.end());
+        int n = nums1.size();
+        make_heap(nums1.begin(),nums1.end(), greater<int>());
         int even = 0;
         for(int i=0;i<n;i++)
         {
-            if(arr[i]%2==0)
+            if(nums1[i]%2==0)
             {
                 even++;
             }
         }
-        if(arr[0]%2==0 && even!=n) return false;
+        if(nums1[0]%2==0 && even!=n) return false;
         return true;
     }
 };
