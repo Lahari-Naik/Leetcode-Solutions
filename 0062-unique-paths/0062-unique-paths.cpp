@@ -1,7 +1,7 @@
 class Solution {
 public:
     int uniquePaths(int m, int n) {
-        if(m==1 && n==1) return 1;
+        if(m==1 || n==1) return 1;
         vector<vector<int>> dp(m,vector<int>(n,0));
         for(int i=1;i<m;i++)
         {
