@@ -1,15 +1,15 @@
 class Solution {
 public:
-    vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
-        int n = graph.size();
-        vector<vector<int>> rev(n);
-        vector<int> out(n);
-        for(int i=0;i<n;i++)
+    vector<int> eventualSafeNodes(vector<vector<int>>& g) {
+        int n = g.size();
+        vector<vector<int>> adj(n);
+        vector<int> out(n,0);
+        for(int i=0;i<g.size();i++)
         {
-            out[i] = graph[i].size();
-            for(int v : graph[i])
+            for(int j=0;j<g[i].size();j++)
             {
-                rev[v].push_back(i);
+                adj[g[i][j]].push_back(i);
+                out[i]++;
             }
         }
         queue<int> q;
@@ -20,13 +20,13 @@ public:
         vector<int> ans;
         while(!q.empty())
         {
-            int node = q.front();
+            int x = q.front();
             q.pop();
-            ans.push_back(node);
-            for(int v : rev[node])
+            ans.push_back(x);
+            for(int k : adj[x])
             {
-                out[v]--;
-                if(out[v]==0) q.push(v);
+                out[k]--;
+                if(out[k]==0) q.push(k);
             }
         }
         sort(ans.begin(),ans.end());
