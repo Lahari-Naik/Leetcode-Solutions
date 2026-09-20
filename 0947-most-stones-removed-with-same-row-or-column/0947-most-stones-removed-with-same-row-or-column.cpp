@@ -8,24 +8,24 @@ public:
         }
     }
     int find(int x) {
-        if (p[x] != x) {
-            p[x] = find(p[x]);
-        }
-        return p[x];
+        if (x == p[x])
+            return x;
+        return find(p[x]);
     }
     void unite(int x, int y) { p[find(x)] = find(y); }
 };
 class Solution {
 public:
     int removeStones(vector<vector<int>>& stones) {
+        int n = stones.size();
         DSU dsu(20002);
-        for (auto& s : stones) {
-            dsu.unite(s[0], s[1] + 10001);
+        for (int i = 0; i < n; i++) {
+            dsu.unite(stones[i][0], stones[i][1] + 10001);
         }
-        unordered_set<int> con;
-        for (auto& s : stones) {
-            con.insert(dsu.find(s[0]));
+        set<int> s;
+        for (int i = 0; i < n; i++) {
+            s.insert(dsu.find(stones[i][0]));
         }
-        return stones.size() - con.size();
+        return n - s.size();
     }
 };
