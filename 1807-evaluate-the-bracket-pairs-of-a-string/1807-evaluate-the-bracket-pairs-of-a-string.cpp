@@ -9,7 +9,6 @@ public:
         int n = s.length();
         string ans = "";
         int i = 0;
-        string k = "";
         int l = 0;
         int r = 0;
         bool flag = false;
